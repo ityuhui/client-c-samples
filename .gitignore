@@ -1,0 +1,7 @@
+create_crd_sample_in_cluster/cactivity
+create_pod/create_pod_bin
+create_secret_in_cluster/csecretInCluster
+create_secret_out_of_cluster/csecret
+list_secret_in_cluster/lsecretInCluster
+list_secret_out_of_cluster/lsecretOutCluster
+
